@@ -11,6 +11,11 @@
             FontSize="Large"
             Text="Foreign Exchange">
         </Label>
+        <Label
+            HorizontalOptions="Center"
+            FontSize="Medium"
+            Text="(Code Behind)">
+        </Label>
         <Label 
             Text="Pesos:">
         </Label>
